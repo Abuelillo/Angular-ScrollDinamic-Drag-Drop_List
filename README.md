@@ -1,3 +1,14 @@
+## INFO
+https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
+## COMANDOS
+- npm install @angular/cdk
+- npm install animate.css --save
+
+
+
+
+
 # VirtualScroll
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
